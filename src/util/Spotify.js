@@ -1,5 +1,5 @@
 const CLIENT_ID = "6ad1db94f67c4deda926471b9342a622";
-const REDIRECT_URI = "http://localhost:3000/"
+const REDIRECT_URI = "https://sveretennikov-jamming.surge.sh"
 let accessToken;
 
 const Spotify = {
